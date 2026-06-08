@@ -1,5 +1,8 @@
-<图片width="1201" height="505" alt="image" src="https://github.com/user-attachments/assets/4383380c-75cd-4505-acf9-2d0e040a61e7" /><图片width="1124" height="977" alt="image" src="https://github.com/user-attachments/assets/07724ab7-85a9-4c05-abb6-687812bd89a5" /><图片width="995" height="882" alt="image" src="https://github.com/user-attachments/assets/bbaaf56b-f57c-4ec8-8881-b79878d2d69b" /><图片width="1095" height="1045" alt="image" src="https://github.com/user-attachments/assets/a97d4666-5393-4871-9361-a36a8f04d71a" /><图片width="64" height="64" alt="图片" src="https://github.com/user-attachments/assets/a11f1f21-f364-4b24-95d9-cb7157f720d4" />
-
+![alt text](qwen3.7.png)
+![alt text](claude4.6.png)
+![alt text](gpt5.5-1.png)
+![alt text](deepseek-v4pro.png)
+![alt text](AI-Mcode.png)
 
 ## 一、项目简介
 
@@ -82,7 +85,7 @@ AI-Mcode.exe
 
 用户可以在前端配置大模型 API 信息，例如：
 
-- DeepSeek
+-深索
 - 通义千问
 - OpenAI
 - Claude
